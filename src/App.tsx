@@ -23,7 +23,7 @@ const App = () => {
   return (
     <div className="relative">
       <Toaster />
-      <ThreeBackground />
+      {/* <ThreeBackground /> */}
       <Header />
       <main id="main">
         <Hero />
