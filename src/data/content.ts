@@ -2,14 +2,14 @@ export const content = {
   // Basic identity
   name: "Sai Shreya Jillella",
   title: "Data Analyst & BI Engineer",
-  location: "New York, USA",
+  location: "Syracuse, New York, USA",
   oneLiner: "I build reliable data pipelines and actionable BI that drive decisions fast.",
   email: "jsaishreya01@gmail.com",
-  phone: "+1 (856) 203 1968",
+  phone: "",
 
   // Socials (use only what exists; leave others empty)
   socials: {
-    github: "",
+    github: "https://github.com/Jshreya-12",
     linkedin: "https://www.linkedin.com/in/jillellasaishreya/",
     x: ""
   },
