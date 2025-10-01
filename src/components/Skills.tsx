@@ -736,7 +736,7 @@ export const Skills = () => {
 
           {/* Skills Grid */}
           <motion.div
-            className="grid grid-cols-1 text-center sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-6"
+            className="grid grid-cols-1 text-center sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-3 gap-6"
             key={activeCategory}
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
